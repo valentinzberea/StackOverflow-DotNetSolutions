@@ -1,0 +1,11 @@
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+*.suo
+*.sln.cache
+Output/
+*.user
+[Dd]ist
+App_Data/
+Thumbs.db
